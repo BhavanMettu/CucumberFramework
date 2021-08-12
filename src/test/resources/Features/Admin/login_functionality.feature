@@ -1,4 +1,5 @@
 @smoke @sanity
+Feature: verify login functionality
 Scenario:validate login credentials with valid data
 Given user  should be able to navigate url  "https://demo.nopcommerce.com"
 Then  user should land on homepage
