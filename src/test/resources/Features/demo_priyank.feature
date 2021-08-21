@@ -1,4 +1,4 @@
-feature: Sample
+feature: Sample feature file
 Scenario 1: User successfully creates a LinkedIn Account
 
 GIVEN John is on the LinkedIn Registration page
